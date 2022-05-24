@@ -1,2 +1,2 @@
 Fitur button
-Fitur Chek Out
+Fitur Check Out
