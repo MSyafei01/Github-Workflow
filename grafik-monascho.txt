@@ -1,3 +1,3 @@
 Fitur button
 Fitur Check Out
-Fitur Pembatalan
+Fitur Pembayaran
